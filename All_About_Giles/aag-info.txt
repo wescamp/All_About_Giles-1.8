@@ -1,0 +1,7 @@
+Additional Source Information
+
+Music Credits:
+The compositions Adrift Alone Av.ogg, Timeless Place.ogg, Adrift Alone Av.ogg, Spooky.ogg, City.ogg, and Hills.ogg are original compositions by me.
+
+Image Credits:
+The photographs in this add-on are original photos taken by me.  The images "campaign_image.png", door.png, and door72.png are my work.  All other images used are from core images or versions I modified slightly from existing core images.
