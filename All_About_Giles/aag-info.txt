@@ -1,5 +1,9 @@
 Additional Source Information
 
+Updates:
+Version 1.0.1
+-Fixed the bug in scenario 6 where killing the elf leader "Hot" results in defeat.
+
 Music Credits:
 The compositions Adrift Alone Av.ogg, Timeless Place.ogg, Adrift Alone Av.ogg, Spooky.ogg, City.ogg, and Hills.ogg are original compositions by me.
 
